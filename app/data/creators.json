@@ -1,0 +1,52 @@
+[
+  {
+    "id": "creator-001",
+    "name": "Elif Kaya",
+    "handle": "elifplays"
+  },
+  {
+    "id": "creator-002",
+    "name": "Mert Aydın",
+    "handle": "mertlive"
+  },
+  {
+    "id": "creator-003",
+    "name": "Deniz Yılmaz",
+    "handle": "denizstream"
+  },
+  {
+    "id": "creator-004",
+    "name": "Selin Arslan",
+    "handle": "selinco"
+  },
+  {
+    "id": "creator-005",
+    "name": "Can Demir",
+    "handle": "candemirtv"
+  },
+  {
+    "id": "creator-006",
+    "name": "Ayşe Koç",
+    "handle": "aysekoc"
+  },
+  {
+    "id": "creator-007",
+    "name": "Burak Şahin",
+    "handle": "burakgames"
+  },
+  {
+    "id": "creator-008",
+    "name": "Zeynep Çelik",
+    "handle": "zeynepcreates"
+  },
+  {
+    "id": "creator-009",
+    "name": "Emre Polat",
+    "handle": "emrepolat"
+  },
+  {
+    "id": "creator-010",
+    "name": "Ceren Öztürk",
+    "handle": "cerenlive"
+  }
+]

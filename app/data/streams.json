@@ -1,0 +1,612 @@
+[
+  {
+    "id": "stream-001",
+    "creatorId": "creator-001",
+    "scheduledAt": "2026-10-05T19:00:00+03:00",
+    "status": "completed",
+    "durationMinutes": 45,
+    "uniqueViewers": 120,
+    "averageWatchDurationMinutes": 14,
+    "publishedClips": 1
+  },
+  {
+    "id": "stream-002",
+    "creatorId": "creator-001",
+    "scheduledAt": "2026-10-07T20:00:00+03:00",
+    "status": "completed",
+    "durationMinutes": 62,
+    "uniqueViewers": 217,
+    "averageWatchDurationMinutes": 16,
+    "publishedClips": 0
+  },
+  {
+    "id": "stream-003",
+    "creatorId": "creator-001",
+    "scheduledAt": "2026-10-09T21:00:00+03:00",
+    "status": "completed",
+    "durationMinutes": 79,
+    "uniqueViewers": 314,
+    "averageWatchDurationMinutes": 15,
+    "publishedClips": 1
+  },
+  {
+    "id": "stream-004",
+    "creatorId": "creator-001",
+    "scheduledAt": "2026-10-11T18:00:00+03:00",
+    "status": "missed",
+    "durationMinutes": null,
+    "uniqueViewers": null,
+    "averageWatchDurationMinutes": null,
+    "publishedClips": 0
+  },
+  {
+    "id": "stream-005",
+    "creatorId": "creator-001",
+    "scheduledAt": "2026-10-12T19:00:00+03:00",
+    "status": "completed",
+    "durationMinutes": 96,
+    "uniqueViewers": 411,
+    "averageWatchDurationMinutes": 18,
+    "publishedClips": 2
+  },
+  {
+    "id": "stream-006",
+    "creatorId": "creator-001",
+    "scheduledAt": "2026-10-14T20:00:00+03:00",
+    "status": "completed",
+    "durationMinutes": 113,
+    "uniqueViewers": 508,
+    "averageWatchDurationMinutes": 19,
+    "publishedClips": 1
+  },
+  {
+    "id": "stream-007",
+    "creatorId": "creator-001",
+    "scheduledAt": "2026-10-16T21:00:00+03:00",
+    "status": "completed",
+    "durationMinutes": 54,
+    "uniqueViewers": 605,
+    "averageWatchDurationMinutes": 17,
+    "publishedClips": 2
+  },
+  {
+    "id": "stream-008",
+    "creatorId": "creator-001",
+    "scheduledAt": "2026-10-18T18:00:00+03:00",
+    "status": "completed",
+    "durationMinutes": 71,
+    "uniqueViewers": 702,
+    "averageWatchDurationMinutes": 20,
+    "publishedClips": 1
+  },
+  {
+    "id": "stream-009",
+    "creatorId": "creator-002",
+    "scheduledAt": "2026-10-05T20:00:00+03:00",
+    "status": "completed",
+    "durationMinutes": 88,
+    "uniqueViewers": 799,
+    "averageWatchDurationMinutes": 12,
+    "publishedClips": 1
+  },
+  {
+    "id": "stream-010",
+    "creatorId": "creator-002",
+    "scheduledAt": "2026-10-07T21:00:00+03:00",
+    "status": "completed",
+    "durationMinutes": 105,
+    "uniqueViewers": 896,
+    "averageWatchDurationMinutes": 13,
+    "publishedClips": 0
+  },
+  {
+    "id": "stream-011",
+    "creatorId": "creator-002",
+    "scheduledAt": "2026-10-09T18:00:00+03:00",
+    "status": "completed",
+    "durationMinutes": 46,
+    "uniqueViewers": 212,
+    "averageWatchDurationMinutes": 11,
+    "publishedClips": 1
+  },
+  {
+    "id": "stream-012",
+    "creatorId": "creator-002",
+    "scheduledAt": "2026-10-11T19:00:00+03:00",
+    "status": "completed",
+    "durationMinutes": 63,
+    "uniqueViewers": 309,
+    "averageWatchDurationMinutes": 12,
+    "publishedClips": 0
+  },
+  {
+    "id": "stream-013",
+    "creatorId": "creator-002",
+    "scheduledAt": "2026-10-12T20:00:00+03:00",
+    "status": "completed",
+    "durationMinutes": 63,
+    "uniqueViewers": 309,
+    "averageWatchDurationMinutes": 15,
+    "publishedClips": 2
+  },
+  {
+    "id": "stream-014",
+    "creatorId": "creator-002",
+    "scheduledAt": "2026-10-14T21:00:00+03:00",
+    "status": "completed",
+    "durationMinutes": 80,
+    "uniqueViewers": 406,
+    "averageWatchDurationMinutes": 16,
+    "publishedClips": null
+  },
+  {
+    "id": "stream-015",
+    "creatorId": "creator-002",
+    "scheduledAt": "2026-10-16T18:00:00+03:00",
+    "status": "completed",
+    "durationMinutes": 97,
+    "uniqueViewers": 503,
+    "averageWatchDurationMinutes": 14,
+    "publishedClips": 1
+  },
+  {
+    "id": "stream-016",
+    "creatorId": "creator-002",
+    "scheduledAt": "2026-10-18T19:00:00+03:00",
+    "status": "completed",
+    "durationMinutes": 114,
+    "uniqueViewers": 600,
+    "averageWatchDurationMinutes": 15,
+    "publishedClips": 1
+  },
+  {
+    "id": "stream-017",
+    "creatorId": "creator-003",
+    "scheduledAt": "2026-10-06T21:00:00+03:00",
+    "status": "completed",
+    "durationMinutes": 55,
+    "uniqueViewers": 697,
+    "averageWatchDurationMinutes": 20,
+    "publishedClips": 1
+  },
+  {
+    "id": "stream-018",
+    "creatorId": "creator-003",
+    "scheduledAt": "2026-10-08T18:00:00+03:00",
+    "status": "completed",
+    "durationMinutes": 72,
+    "uniqueViewers": 794,
+    "averageWatchDurationMinutes": 22,
+    "publishedClips": 1
+  },
+  {
+    "id": "stream-019",
+    "creatorId": "creator-003",
+    "scheduledAt": "2026-10-10T19:00:00+03:00",
+    "status": "completed",
+    "durationMinutes": 89,
+    "uniqueViewers": 891,
+    "averageWatchDurationMinutes": 21,
+    "publishedClips": 0
+  },
+  {
+    "id": "stream-020",
+    "creatorId": "creator-003",
+    "scheduledAt": "2026-10-13T21:00:00+03:00",
+    "status": "completed",
+    "durationMinutes": 106,
+    "uniqueViewers": 207,
+    "averageWatchDurationMinutes": 17,
+    "publishedClips": 2
+  },
+  {
+    "id": "stream-021",
+    "creatorId": "creator-003",
+    "scheduledAt": "2026-10-15T18:00:00+03:00",
+    "status": "completed",
+    "durationMinutes": 47,
+    "uniqueViewers": 304,
+    "averageWatchDurationMinutes": 18,
+    "publishedClips": 2
+  },
+  {
+    "id": "stream-022",
+    "creatorId": "creator-003",
+    "scheduledAt": "2026-10-17T19:00:00+03:00",
+    "status": "completed",
+    "durationMinutes": 64,
+    "uniqueViewers": 401,
+    "averageWatchDurationMinutes": 16,
+    "publishedClips": 1
+  },
+  {
+    "id": "stream-023",
+    "creatorId": "creator-004",
+    "scheduledAt": "2026-10-06T18:00:00+03:00",
+    "status": "completed",
+    "durationMinutes": 98,
+    "uniqueViewers": 595,
+    "averageWatchDurationMinutes": 10,
+    "publishedClips": 1
+  },
+  {
+    "id": "stream-024",
+    "creatorId": "creator-004",
+    "scheduledAt": "2026-10-08T19:00:00+03:00",
+    "status": "completed",
+    "durationMinutes": 115,
+    "uniqueViewers": 692,
+    "averageWatchDurationMinutes": 12,
+    "publishedClips": 1
+  },
+  {
+    "id": "stream-025",
+    "creatorId": "creator-004",
+    "scheduledAt": "2026-10-10T20:00:00+03:00",
+    "status": "missed",
+    "durationMinutes": null,
+    "uniqueViewers": null,
+    "averageWatchDurationMinutes": null,
+    "publishedClips": 0
+  },
+  {
+    "id": "stream-026",
+    "creatorId": "creator-004",
+    "scheduledAt": "2026-10-13T18:00:00+03:00",
+    "status": "completed",
+    "durationMinutes": 73,
+    "uniqueViewers": 886,
+    "averageWatchDurationMinutes": null,
+    "publishedClips": 2
+  },
+  {
+    "id": "stream-027",
+    "creatorId": "creator-004",
+    "scheduledAt": "2026-10-15T19:00:00+03:00",
+    "status": "completed",
+    "durationMinutes": 90,
+    "uniqueViewers": 202,
+    "averageWatchDurationMinutes": null,
+    "publishedClips": 1
+  },
+  {
+    "id": "stream-028",
+    "creatorId": "creator-004",
+    "scheduledAt": "2026-10-17T20:00:00+03:00",
+    "status": "completed",
+    "durationMinutes": 107,
+    "uniqueViewers": 299,
+    "averageWatchDurationMinutes": null,
+    "publishedClips": 2
+  },
+  {
+    "id": "stream-029",
+    "creatorId": "creator-005",
+    "scheduledAt": "2026-10-05T19:00:00+03:00",
+    "status": "completed",
+    "durationMinutes": 65,
+    "uniqueViewers": 493,
+    "averageWatchDurationMinutes": 16,
+    "publishedClips": 2
+  },
+  {
+    "id": "stream-030",
+    "creatorId": "creator-005",
+    "scheduledAt": "2026-10-07T20:00:00+03:00",
+    "status": "completed",
+    "durationMinutes": 82,
+    "uniqueViewers": 590,
+    "averageWatchDurationMinutes": 17,
+    "publishedClips": 1
+  },
+  {
+    "id": "stream-031",
+    "creatorId": "creator-005",
+    "scheduledAt": "2026-10-09T21:00:00+03:00",
+    "status": "completed",
+    "durationMinutes": 99,
+    "uniqueViewers": 687,
+    "averageWatchDurationMinutes": 15,
+    "publishedClips": 2
+  },
+  {
+    "id": "stream-032",
+    "creatorId": "creator-005",
+    "scheduledAt": "2026-10-11T18:00:00+03:00",
+    "status": "completed",
+    "durationMinutes": 116,
+    "uniqueViewers": 784,
+    "averageWatchDurationMinutes": 16,
+    "publishedClips": 1
+  },
+  {
+    "id": "stream-033",
+    "creatorId": "creator-005",
+    "scheduledAt": "2026-10-12T19:00:00+03:00",
+    "status": "completed",
+    "durationMinutes": 116,
+    "uniqueViewers": 784,
+    "averageWatchDurationMinutes": 13,
+    "publishedClips": 1
+  },
+  {
+    "id": "stream-034",
+    "creatorId": "creator-005",
+    "scheduledAt": "2026-10-14T20:00:00+03:00",
+    "status": "missed",
+    "durationMinutes": null,
+    "uniqueViewers": null,
+    "averageWatchDurationMinutes": null,
+    "publishedClips": 0
+  },
+  {
+    "id": "stream-035",
+    "creatorId": "creator-005",
+    "scheduledAt": "2026-10-16T21:00:00+03:00",
+    "status": "completed",
+    "durationMinutes": 74,
+    "uniqueViewers": 197,
+    "averageWatchDurationMinutes": 12,
+    "publishedClips": 0
+  },
+  {
+    "id": "stream-036",
+    "creatorId": "creator-005",
+    "scheduledAt": "2026-10-18T18:00:00+03:00",
+    "status": "missed",
+    "durationMinutes": null,
+    "uniqueViewers": null,
+    "averageWatchDurationMinutes": null,
+    "publishedClips": 0
+  },
+  {
+    "id": "stream-037",
+    "creatorId": "creator-006",
+    "scheduledAt": "2026-10-05T20:00:00+03:00",
+    "status": "completed",
+    "durationMinutes": 108,
+    "uniqueViewers": 391,
+    "averageWatchDurationMinutes": 22,
+    "publishedClips": 1
+  },
+  {
+    "id": "stream-038",
+    "creatorId": "creator-006",
+    "scheduledAt": "2026-10-07T21:00:00+03:00",
+    "status": "completed",
+    "durationMinutes": 49,
+    "uniqueViewers": 488,
+    "averageWatchDurationMinutes": 24,
+    "publishedClips": 2
+  },
+  {
+    "id": "stream-039",
+    "creatorId": "creator-006",
+    "scheduledAt": "2026-10-09T18:00:00+03:00",
+    "status": "completed",
+    "durationMinutes": 66,
+    "uniqueViewers": 585,
+    "averageWatchDurationMinutes": 23,
+    "publishedClips": 1
+  },
+  {
+    "id": "stream-040",
+    "creatorId": "creator-006",
+    "scheduledAt": "2026-10-11T19:00:00+03:00",
+    "status": "completed",
+    "durationMinutes": 83,
+    "uniqueViewers": 682,
+    "averageWatchDurationMinutes": 21,
+    "publishedClips": 2
+  },
+  {
+    "id": "stream-041",
+    "creatorId": "creator-006",
+    "scheduledAt": "2026-10-12T20:00:00+03:00",
+    "status": "completed",
+    "durationMinutes": 83,
+    "uniqueViewers": 682,
+    "averageWatchDurationMinutes": 26,
+    "publishedClips": 1
+  },
+  {
+    "id": "stream-042",
+    "creatorId": "creator-006",
+    "scheduledAt": "2026-10-14T21:00:00+03:00",
+    "status": "completed",
+    "durationMinutes": 100,
+    "uniqueViewers": 779,
+    "averageWatchDurationMinutes": 25,
+    "publishedClips": 2
+  },
+  {
+    "id": "stream-043",
+    "creatorId": "creator-006",
+    "scheduledAt": "2026-10-16T18:00:00+03:00",
+    "status": "missed",
+    "durationMinutes": null,
+    "uniqueViewers": null,
+    "averageWatchDurationMinutes": null,
+    "publishedClips": 0
+  },
+  {
+    "id": "stream-044",
+    "creatorId": "creator-006",
+    "scheduledAt": "2026-10-18T19:00:00+03:00",
+    "status": "completed",
+    "durationMinutes": 58,
+    "uniqueViewers": 192,
+    "averageWatchDurationMinutes": 27,
+    "publishedClips": 1
+  },
+  {
+    "id": "stream-045",
+    "creatorId": "creator-007",
+    "scheduledAt": "2026-10-05T21:00:00+03:00",
+    "status": "completed",
+    "durationMinutes": 75,
+    "uniqueViewers": 289,
+    "averageWatchDurationMinutes": 9,
+    "publishedClips": 0
+  },
+  {
+    "id": "stream-046",
+    "creatorId": "creator-007",
+    "scheduledAt": "2026-10-07T18:00:00+03:00",
+    "status": "completed",
+    "durationMinutes": 92,
+    "uniqueViewers": 386,
+    "averageWatchDurationMinutes": 11,
+    "publishedClips": 1
+  },
+  {
+    "id": "stream-047",
+    "creatorId": "creator-007",
+    "scheduledAt": "2026-10-09T19:00:00+03:00",
+    "status": "completed",
+    "durationMinutes": 109,
+    "uniqueViewers": 483,
+    "averageWatchDurationMinutes": 10,
+    "publishedClips": 0
+  },
+  {
+    "id": "stream-048",
+    "creatorId": "creator-007",
+    "scheduledAt": "2026-10-11T20:00:00+03:00",
+    "status": "missed",
+    "durationMinutes": null,
+    "uniqueViewers": null,
+    "averageWatchDurationMinutes": null,
+    "publishedClips": 0
+  },
+  {
+    "id": "stream-049",
+    "creatorId": "creator-007",
+    "scheduledAt": "2026-10-13T21:00:00+03:00",
+    "status": "completed",
+    "durationMinutes": 50,
+    "uniqueViewers": 580,
+    "averageWatchDurationMinutes": 12,
+    "publishedClips": 1
+  },
+  {
+    "id": "stream-050",
+    "creatorId": "creator-007",
+    "scheduledAt": "2026-10-15T18:00:00+03:00",
+    "status": "missed",
+    "durationMinutes": null,
+    "uniqueViewers": null,
+    "averageWatchDurationMinutes": null,
+    "publishedClips": 0
+  },
+  {
+    "id": "stream-051",
+    "creatorId": "creator-007",
+    "scheduledAt": "2026-10-17T19:00:00+03:00",
+    "status": "completed",
+    "durationMinutes": 84,
+    "uniqueViewers": 774,
+    "averageWatchDurationMinutes": 11,
+    "publishedClips": 1
+  },
+  {
+    "id": "stream-052",
+    "creatorId": "creator-008",
+    "scheduledAt": "2026-10-07T18:00:00+03:00",
+    "status": "completed",
+    "durationMinutes": 118,
+    "uniqueViewers": 187,
+    "averageWatchDurationMinutes": 18,
+    "publishedClips": 2
+  },
+  {
+    "id": "stream-053",
+    "creatorId": "creator-008",
+    "scheduledAt": "2026-10-10T19:00:00+03:00",
+    "status": "completed",
+    "durationMinutes": 59,
+    "uniqueViewers": 284,
+    "averageWatchDurationMinutes": 20,
+    "publishedClips": 3
+  },
+  {
+    "id": "stream-054",
+    "creatorId": "creator-008",
+    "scheduledAt": "2026-10-14T18:00:00+03:00",
+    "status": "completed",
+    "durationMinutes": 93,
+    "uniqueViewers": 478,
+    "averageWatchDurationMinutes": 15,
+    "publishedClips": 1
+  },
+  {
+    "id": "stream-055",
+    "creatorId": "creator-008",
+    "scheduledAt": "2026-10-17T19:00:00+03:00",
+    "status": "missed",
+    "durationMinutes": null,
+    "uniqueViewers": null,
+    "averageWatchDurationMinutes": null,
+    "publishedClips": 0
+  },
+  {
+    "id": "stream-056",
+    "creatorId": "creator-009",
+    "scheduledAt": "2026-10-13T19:00:00+03:00",
+    "status": "completed",
+    "durationMinutes": 60,
+    "uniqueViewers": 376,
+    "averageWatchDurationMinutes": 14,
+    "publishedClips": 1
+  },
+  {
+    "id": "stream-057",
+    "creatorId": "creator-009",
+    "scheduledAt": "2026-10-15T20:00:00+03:00",
+    "status": "completed",
+    "durationMinutes": 77,
+    "uniqueViewers": 473,
+    "averageWatchDurationMinutes": 16,
+    "publishedClips": 1
+  },
+  {
+    "id": "stream-058",
+    "creatorId": "creator-009",
+    "scheduledAt": "2026-10-17T21:00:00+03:00",
+    "status": "completed",
+    "durationMinutes": 94,
+    "uniqueViewers": 570,
+    "averageWatchDurationMinutes": 15,
+    "publishedClips": 2
+  },
+  {
+    "id": "stream-059",
+    "creatorId": "creator-010",
+    "scheduledAt": "2026-10-06T20:00:00+03:00",
+    "status": "completed",
+    "durationMinutes": 52,
+    "uniqueViewers": 764,
+    "averageWatchDurationMinutes": 25,
+    "publishedClips": 2
+  },
+  {
+    "id": "stream-060",
+    "creatorId": "creator-010",
+    "scheduledAt": "2026-10-08T21:00:00+03:00",
+    "status": "completed",
+    "durationMinutes": 69,
+    "uniqueViewers": 861,
+    "averageWatchDurationMinutes": 27,
+    "publishedClips": 1
+  },
+  {
+    "id": "stream-061",
+    "creatorId": "creator-010",
+    "scheduledAt": "2026-10-10T18:00:00+03:00",
+    "status": "completed",
+    "durationMinutes": 86,
+    "uniqueViewers": 177,
+    "averageWatchDurationMinutes": 26,
+    "publishedClips": 1
+  }
+]
